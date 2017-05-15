@@ -1815,6 +1815,10 @@ Source: www.johnsoncomponents.com .. J502-ND.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="-5.08" y="248.92" size="3.81" layer="97">Variant A</text>
+<text x="-5.08" y="208.28" size="3.81" layer="97">Variant B</text>
+<text x="-2.54" y="139.7" size="3.81" layer="97">Variant C</text>
+<text x="-2.54" y="66.04" size="3.81" layer="97">Variant D</text>
 </plain>
 <instances>
 <instance part="IC11" gate="G$1" x="109.22" y="248.92"/>
