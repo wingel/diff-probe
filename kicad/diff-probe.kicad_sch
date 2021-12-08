@@ -1752,7 +1752,7 @@
     (property "Datasheet" "" (id 3) (at 243.84 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C1509224" (id 4) (at 243.84 104.14 0)
+    (property "LCSC" "C1509230" (id 4) (at 243.84 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ac1ccc5-26c5-4b73-8425-7bbec927bf24))
