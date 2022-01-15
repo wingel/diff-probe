@@ -1,3 +1,9 @@
+What is different in this fork?
+===============================
+* KiCAD version of only the tested B variant
+* Board slightly optimized (NF resistors removed)
+* JLCPCB production files added (with assembly)
+
 An almost GHZ active differential probe
 =======================================
 
